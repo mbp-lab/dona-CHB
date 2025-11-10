@@ -42,7 +42,7 @@ To reproduce the figures and numbers of the paper you need to:
 3) Run the analysis scripts under code/2-analysis. You can run the anayses in any order if you have already completed the pre-processing steps from step 1.
 4) Check out code/modules for statistical tests and plotting routines.
 
-All figures are saved under reports. 
+All figures are will be saved under reports. 
 
 ## Contact
 If you have questions or encounter any problems, feel free to contact Dr. Olya Hakobyan at olya.hakobyan@uni-bielefeld.de or Prof. Dr. Hanna Drimalla at drimalla@techfak.uni-bielefeld.de
